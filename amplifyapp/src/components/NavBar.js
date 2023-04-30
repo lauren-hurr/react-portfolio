@@ -6,7 +6,7 @@ import Navbar from 'react-bootstrap/Navbar';
 function NavBar() {
   return (
       <>
-          <Navbar fixed={"top"} className={"header"} expand="xl">
+          <Navbar fixed={"top"} className={"header"} expand="lg">
               <Navbar.Brand href="/">Lauren Hurr</Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">

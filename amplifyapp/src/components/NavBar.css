@@ -2,7 +2,7 @@
 .navbar.header {
   --bs-navbar-padding-x: 2vw;
   min-height: 85px;
-  max-height: 85px;
+  max-height: 100%;
   font-size: 16px;
   border-bottom: 1px solid black;
   backdrop-filter: blur(12px);
@@ -19,4 +19,5 @@
   margin-left: 0.75rem;
   margin-right: 0.75rem;
   color: #000000 !important;
+  text-align: right;
 }

@@ -11,7 +11,6 @@ function About() {
             <AboutBanner />
             <Footer />
         </Container>
-
     );
 }
 
