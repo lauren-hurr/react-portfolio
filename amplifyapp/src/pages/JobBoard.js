@@ -13,7 +13,7 @@ function JobBoard() {
         { projectName: 'Employment Website',
             projectDesc: 'I designed and developed golf tournament leaderboards for new scoring types.',
             caseStudyHref: "PlanitCaseStudy",
-            BannerImgRef: "images/golf_banner.png",
+            BannerImgRef: "images/nonprofit_banner.png",
             role: "Product Designer",
             tools: "Figma \n Optimal Workshop",
             timeline: "April, 2022 - November, 2022 \n 8 months",
