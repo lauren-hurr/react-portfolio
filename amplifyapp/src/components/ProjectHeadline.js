@@ -12,11 +12,7 @@ function ProjectHeadline({params}) {
                     <h2 className="projectName">{params.projectName}</h2>
                 </Col>
             </Row>
-            <Row className={"headlineDescRow"}>
-                <Col xl={12}>
-                    <p className="projectDesc">{params.projectDesc}</p>
-                </Col>
-            </Row>
+
         </Container>
     );
 }
