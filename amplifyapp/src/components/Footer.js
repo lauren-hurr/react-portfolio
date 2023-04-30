@@ -9,7 +9,7 @@ function Footer() {
             <Navbar bg={"white"} className={"footer"} expand="xl">
                 <Navbar.Brand href="/" className={"footerBrand"}>Lauren Hurr</Navbar.Brand>
                 <Nav className="ms-auto">
-                    <Nav.Link href="/">Back to Top</Nav.Link>
+                    <Nav.Link href="#top">Back to Top</Nav.Link>
                 </Nav>
                 <Nav className="ms-auto">
                     <Nav.Link href="https://www.linkedin.com/in/laurenhurr">LinkedIn</Nav.Link>
