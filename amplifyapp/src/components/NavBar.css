@@ -21,3 +21,8 @@
   color: #000000 !important;
   text-align: right;
 }
+
+.nav-link.underline {
+  text-decoration: underline;
+  font-weight: 700;
+}
