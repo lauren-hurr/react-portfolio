@@ -12,8 +12,8 @@ function Footer() {
                     <Nav.Link href="/">Back to Top</Nav.Link>
                 </Nav>
                 <Nav className="ms-auto">
-                    <Nav.Link href="/">LinkedIn</Nav.Link>
-                    <Nav.Link href="/">Get In Touch</Nav.Link>
+                    <Nav.Link href="https://www.linkedin.com/in/laurenhurr">LinkedIn</Nav.Link>
+
                 </Nav>
             </Navbar>
         </>

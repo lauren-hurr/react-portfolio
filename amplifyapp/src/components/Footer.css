@@ -10,7 +10,11 @@
 .footer > .navbar-brand {
     font-size: 16px;
     font-weight: 450;
-    padding-left: 1vw
+
+}
+
+.footerBrand {
+    padding-left: 0;
 }
 
 .footer > * > .nav-link {
