@@ -37,7 +37,7 @@ function AboutBanner() {
                 </Col>
                 <Col className={"aboutDescCol"}>
                     <div className={"imageDiv"}>
-                        <img className="aboutProfilePic" src={"images/headshot.jpeg"} alt={"AboutMePhoto"}/>
+                        <img className="aboutProfilePic" src={"images/headshot.png"} alt={"AboutMePhoto"}/>
                     </div>
                 </Col>
             </Row>
