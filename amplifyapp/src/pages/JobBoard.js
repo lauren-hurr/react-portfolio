@@ -10,13 +10,13 @@ import ProjectContent from "../components/ProjectContent";
 
 function JobBoard() {
     const projectList = [
-        { projectName: 'Employment Website',
+        { projectName: 'Non-Profit Social Enterprise',
             projectDesc: 'I designed and developed golf tournament leaderboards for new scoring types.',
             caseStudyHref: "PlanitCaseStudy",
             BannerImgRef: "images/nonprofit_banner.png",
             role: "Product Designer",
-            tools: "Figma \n Optimal Workshop",
-            timeline: "April, 2022 - November, 2022 \n 8 months",
+            tools: "Figma \n Optimal Workshop \n Miro",
+            timeline: "Nov, 2021 - Mar, 2022 \n 5 months",
             overview: "I was tasked with improving the usability, functionality, and appearance of a job board " +
                 "platform for the client. This involved optimizing the user experience for three different user types " +
                 "by identifying pain points and opportunities for improvement.",

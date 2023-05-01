@@ -8,15 +8,15 @@ function ProjectBannerDetail({params}) {
     return (
         <Container className="projectBannerDetailContainer">
             <Row className={"projectBannerDetailRow"}>
-                <Col xl={4}>
+                <Col lg={2}>
                     <h2 className="bannerDetailTitle">Role</h2>
                     <h2 className="bannerDetail">{params.role}</h2>
                 </Col>
-                <Col xl={4}>
+                <Col lg={{span: 2, offset: 3}}>
                     <h2 className="bannerDetailTitle">Tools</h2>
                     <h2 className="bannerDetail">{params.tools}</h2>
                 </Col>
-                <Col xl={4}>
+                <Col lg={{span: 2, offset: 3}}>
                     <h2 className="bannerDetailTitle">Timeline</h2>
                     <h2 className="bannerDetail">{params.timeline}</h2>
                 </Col>

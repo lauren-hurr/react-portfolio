@@ -40,6 +40,7 @@
 }
 
 h2.proj-title-main {
+    margin-top: 10px;
     font-size: 2em;
     font-weight: 400;
     letter-spacing: 0.03em;
@@ -52,6 +53,6 @@ h2.proj-title-main {
     font-weight: 300;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #7F7F7F;
+    color: #4E4E4E;
 }
 

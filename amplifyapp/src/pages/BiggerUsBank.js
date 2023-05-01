@@ -17,7 +17,7 @@ function BiggerUsBank() {
             BannerImgRef: "images/biggerusbank_banner.png",
             role: "Product Designer",
             tools: "Figma \n Optimal Workshop",
-            timeline: "April, 2022 - November, 2022 \n 8 months",
+            timeline: "Nov, 2022 - Jan, 2023 \n 3 months",
             overview: "I spearheaded the development and execution of a custom dashboard tailored to the needs of the " +
                 "client's marketing team. The dashboard played a critical role in monitoring the performance of " +
                 "customer-facing applications used in physical bank branches, empowering the client to make " +

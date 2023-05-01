@@ -8,19 +8,19 @@ import HomeProjectCard from "./HomeProjectCard";
 
 const HomeGridContainer = () => {
         const projectList = [
-            { projectName: 'Top 10 Bank',
+            { projectName: 'Top 10 U.S. Bank',
                 projectDesc: 'Product Designer - 2022',
                 caseStudyHref: "bigusbank",
                 caseStudyImgRef: "images/bigbank_thumb.png"},
-            { projectName: 'Top 3 Bank',
+            { projectName: 'Top 3 U.S. Bank',
                 projectDesc: 'Product Designer - 2022',
                 caseStudyHref: "biggerusbank",
                 caseStudyImgRef: "images/biggerusbank_thumb.png"},
-            { projectName: 'Golf Organization',
-                projectDesc: 'Product Designer - 2022',
+            { projectName: 'U.S. Golf Organization',
+                projectDesc: 'Product Designer - 2023',
                 caseStudyHref: "golf",
                 caseStudyImgRef: "images/golf_thumb.png"},
-            { projectName: 'Job Board',
+            { projectName: 'Non-Profit Social Enterprise',
                 projectDesc: 'Product Designer - 2022',
                 caseStudyHref: "jobboard",
                 caseStudyImgRef: "images/nonprofit_thumb.png"}

@@ -16,8 +16,8 @@ function BigUsBank() {
             caseStudyHref: "PlanitCaseStudy",
             BannerImgRef: "images/bigusbank_banner.png",
             role: "Product Designer",
-            tools: "Figma",
-            timeline: "April, 2022 - November, 2022 \n 8 months",
+            tools: "Figma \n Lucidspark",
+            timeline: "Apr, 2022 - Nov, 2022 \n 8 months",
             overview: "As the lead designer across three development teams, I played a key role in supporting the " +
                 "design and development of a new and modernized customer servicing platform, CSP. Our goal was to " +
                 "create a guided and uniform customer servicing experience that would help customer service agents " +

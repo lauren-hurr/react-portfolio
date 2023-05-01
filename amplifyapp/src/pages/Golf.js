@@ -15,8 +15,8 @@ function Golf() {
             caseStudyHref: "PlanitCaseStudy",
             BannerImgRef: "images/golf_banner.png",
             role: "Product Designer",
-            tools: "Figma \n Optimal Workshop",
-            timeline: "April, 2022 - November, 2022 \n 8 months",
+            tools: "Figma",
+            timeline: "Jan, 2023 - Feb, 2023 \n 2 months",
             overview: "In collaboration with an API data partner, I designed new and complex golf tournament " +
                 "leaderboards for the U.S. Golf Organization’s website.  The challenge was to create innovative " +
                 "designs that would effectively display multiple levels of new scoring information while adhering " +
