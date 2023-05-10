@@ -15,7 +15,7 @@ function NavBar() {
                   <Nav className="ms-auto">
                       <NavLink className={({ isActive }) => "nav-link" + (isActive ? " underline" : "")} to="/" end>Work</NavLink>
                       <NavLink className={({ isActive }) => "nav-link" + (isActive ? " underline" : "")} to="/about" end>About</NavLink>
-                      <Nav.Link className={"nav-link"} href="/lauren_hurr_resume.pdf">Resume</Nav.Link>
+                      <Nav.Link className={"nav-link"} href="/lauren_hurr_resume.pdf" target={"_blank"}>Resume</Nav.Link>
                       <Nav.Link className={"nav-link"} href="mailto:lauren.hurr0212@gmail.com">Contact</Nav.Link>
                   </Nav>
               </Navbar.Collapse>
