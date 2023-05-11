@@ -38,8 +38,7 @@ function BigUsBank() {
                 "increased customer satisfaction and retention rates. The new workflows resulted in a 40% reduction " +
                 "in manual work from complex processes, and the consolidated platform decreased fraud resolution calls " +
                 "by over 50 seconds on average. The platform was quickly scaled across the entire line of business, " +
-                "making a significant impact on efficiency and overall customer experience. As a result of my " +
-                "contributions, the project was a great success."
+                "making a significant impact on efficiency and overall customer experience."
 
         },
     ];

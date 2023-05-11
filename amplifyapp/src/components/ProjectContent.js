@@ -44,6 +44,12 @@ function ProjectContent({params}) {
                     </Row>
                 </Col>
             </Row>
+            <Row className={"disclaimerRow"}>
+                <Col xl={{span:7, offset: 5}} className={"disclaimerColumn"}>
+                    <h1 className="disclaimerText">* Assets and content are white-labeled to preserve the
+                        confidentiality of the client.</h1>
+                </Col>
+            </Row>
         </Container>
     );
 }
