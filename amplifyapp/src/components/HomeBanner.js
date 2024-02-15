@@ -11,7 +11,7 @@ function HomeBanner() {
             <Col xl={6} md={12} className={"HomeBanner"}>
                 <Container fluid className={"introContainer"}>
                     <p className="intro-headline">
-                        <b>Lauren Hurr</b> is a Product Designer currently working at CapTech.
+                        <b>Lauren Hurr</b> is a Freelance Product Designer located in Washington D.C.
                     </p>
                 </Container>
             </Col>
